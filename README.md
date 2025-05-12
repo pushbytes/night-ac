@@ -1,0 +1,1 @@
+some new project idea if i get bored ill dev this lol
