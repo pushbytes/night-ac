@@ -6,7 +6,7 @@ It's general idea is to detect most things using some obscure methods that isn't
 
 
 ## contributions
-You might want to contribute to `night-ac` you can, but be aware of stuff such as race conditions and alike which might be prone to exploiting, crashes or other issues.<br/>
+You might want to contribute to `night-ac` and you can, but be aware of stuff such as race conditions and alike which might be prone to exploiting, crashes or other issues.<br/>
 Make sure you use smart pointers and proper destructors as yk, we don't want a memory leak or something!<br/>
 I'm not entirely focused on stuff like obfuscation as it's just obscure and I'm not experienced with that kind of thing.<br/>
 It's recommend that you use `snake_case` over other typing formats as that's what my codebase uses.<br/>
